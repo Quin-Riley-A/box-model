@@ -1,0 +1,19 @@
+body {
+  background-color:green;
+}
+
+.top {
+  font-family: Arial, Helvetica, sans-serial;
+}
+
+.column {
+  float: right;
+  width: 200px;
+  padding: 20px;
+  border: 50px dotted teal;
+  background-color: black;
+  margin-right: 25px;
+  box-sizing: border-box;
+  color: white;
+  font-family: sans-serif;
+}
